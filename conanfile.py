@@ -8,16 +8,16 @@ class BoostMulti_ArrayConan(ConanFile):
     description = "Please visit http://www.boost.org/doc/libs/1_65_1/libs/libraries.htm"
     license = "www.boost.org/users/license.html"
     lib_short_names = ["multi_array"]
-    requires =  "Boost.Array/1.65.1@bincrafters/testing", \
-                      "Boost.Assert/1.65.1@bincrafters/testing", \
-                      "Boost.Concept_Check/1.65.1@bincrafters/testing", \
-                      "Boost.Config/1.65.1@bincrafters/testing", \
-                      "Boost.Core/1.65.1@bincrafters/testing", \
-                      "Boost.Functional/1.65.1@bincrafters/testing", \
-                      "Boost.Iterator/1.65.1@bincrafters/testing", \
-                      "Boost.Mpl/1.65.1@bincrafters/testing", \
-                      "Boost.Static_Assert/1.65.1@bincrafters/testing", \
-                      "Boost.Type_Traits/1.65.1@bincrafters/testing"
+    requires =  "Boost.Array/1.65.1@bincrafters/stable", \
+                      "Boost.Assert/1.65.1@bincrafters/stable", \
+                      "Boost.Concept_Check/1.65.1@bincrafters/stable", \
+                      "Boost.Config/1.65.1@bincrafters/stable", \
+                      "Boost.Core/1.65.1@bincrafters/stable", \
+                      "Boost.Functional/1.65.1@bincrafters/stable", \
+                      "Boost.Iterator/1.65.1@bincrafters/stable", \
+                      "Boost.Mpl/1.65.1@bincrafters/stable", \
+                      "Boost.Static_Assert/1.65.1@bincrafters/stable", \
+                      "Boost.Type_Traits/1.65.1@bincrafters/stable"
 
                       #array3 assert1 concept_check5 config0 core2 functional5 iterator5 mpl5 static_assert1 type_traits3
 
