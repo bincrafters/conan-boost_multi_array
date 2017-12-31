@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostMulti_ArrayConan(ConanFile):
     name = "boost_multi_array"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-multi_array"
+    url = "https://github.com/bincrafters/conan-boost_multi_array"
 
     lib_short_names = ["multi_array"]
     is_header_only = True
