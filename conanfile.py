@@ -8,7 +8,8 @@ class BoostMulti_ArrayConan(ConanFile):
     name = "boost_multi_array"
     version = "1.66.0"
     url = "https://github.com/bincrafters/conan-boost_multi_array"
-
+    author = "Bincrafters <bincrafters@gmail.com>"
+    exports = ["LICENSE.md"]
     lib_short_names = ["multi_array"]
     is_header_only = True
 
