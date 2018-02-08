@@ -1,8 +1,8 @@
 ## Package Status
 
-| Bintray | Windows | Linux | OSX |
-|---------|------------|--------|------|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_multi_array%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_multi_array%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_multi_array?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-multi_array)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_multi_array.svg)](https://travis-ci.org/bincrafters/conan-boost_multi_array)|N/A|
+| Bintray | Windows | Linux & macOS | 
+|:--------:|:---------:|:-----------------:|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_multi_array%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_multi_array%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_multi_array?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-multi-array)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_multi_array.svg)](https://travis-ci.org/bincrafters/conan-boost_multi_array)|
 
 ## Conan.io Information
 
