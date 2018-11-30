@@ -4,7 +4,7 @@
 from conans import python_requires
 
 
-base = python_requires("boost_base/1.67.0@bincrafters/testing")
+base = python_requires("boost_base/1.68.0@bincrafters/testing")
 
 class BoostMulti_ArrayConan(base.BoostBaseConan):
     name = "boost_multi_array"
@@ -23,5 +23,3 @@ class BoostMulti_ArrayConan(base.BoostBaseConan):
         "boost_static_assert",
         "boost_type_traits"
     ]
-
-
